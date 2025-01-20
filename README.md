@@ -1,6 +1,6 @@
 #demo
 
--> You can view the live demo [here](https://YOUSSEF-ETTABAA.io/Markdown-Previewer/).
+-> You can view the live demo [here](https://youssef-ettabaa.github.io/Markdown-Previewer/).
 
 
 
